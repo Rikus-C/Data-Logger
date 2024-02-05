@@ -1,0 +1,7 @@
+{
+    "logs made": 0,
+    "usb save req": 1,
+    "usb save done": 2,
+    "usb save error": 3,
+    "no usb": 4
+}

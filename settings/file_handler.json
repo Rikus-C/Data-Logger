@@ -1,0 +1,12 @@
+{
+	"logs folder": "./data/logs/",
+	"dump folder": "./data/dumps/",
+	"save folder": "",
+	"max files in log folder": 100,
+	"data flush wait time": 5,
+	"plc max data per frame": 125,
+	"usb save drives": [
+		"D:\\",
+		"E:\\"
+	]
+}

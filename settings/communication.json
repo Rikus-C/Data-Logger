@@ -1,0 +1,6 @@
+{
+	"plc data PORT": 420,
+	"plc info PORT": 421,
+	"plc IPv4": "192.168.100.99",
+	"plc ping rate": 0.3
+}
